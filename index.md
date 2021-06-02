@@ -6,4 +6,4 @@
 - 코로나19 대응수칙 관련 제반사항(주로 행정처리)
 - 코로나19에 관한 의료 지식은 없습니다.
 
-###학교홈페이지 : <http://jangan.es.kr/index.do>
+학교홈페이지 : <http://jangan.es.kr/index.do>
